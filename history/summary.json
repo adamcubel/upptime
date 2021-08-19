@@ -1,22 +1,22 @@
 [
   {
     "name": "Artifactory",
-    "url": "https://artifactory.dev.aws.cce.af.mil",
-    "icon": "https://favicons.githubusercontent.com/artifactory.dev.aws.cce.af.mil",
+    "url": "https://artifact.dev.aws.cce.af.mil",
+    "icon": "https://favicons.githubusercontent.com/artifact.dev.aws.cce.af.mil",
     "slug": "artifactory",
     "status": "down",
-    "uptime": "6.48%",
-    "uptimeDay": "6.48%",
-    "uptimeWeek": "6.48%",
-    "uptimeMonth": "6.48%",
-    "uptimeYear": "6.48%",
+    "uptime": "2.23%",
+    "uptimeDay": "2.23%",
+    "uptimeWeek": "2.23%",
+    "uptimeMonth": "2.23%",
+    "uptimeYear": "2.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-19": 1
+      "2021-08-19": 2
     }
   }
 ]

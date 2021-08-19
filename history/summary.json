@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/artifact.dev.aws.cce.af.mil",
     "slug": "artifactory",
     "status": "down",
-    "uptime": "1.36%",
-    "uptimeDay": "1.36%",
-    "uptimeWeek": "1.36%",
-    "uptimeMonth": "1.36%",
-    "uptimeYear": "1.36%",
+    "uptime": "1.15%",
+    "uptimeDay": "1.15%",
+    "uptimeWeek": "1.15%",
+    "uptimeMonth": "1.15%",
+    "uptimeYear": "1.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-19": 5
+      "2021-08-19": 6
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/artifact.dev.aws.cce.af.mil",
     "slug": "artifactory2",
     "status": "down",
-    "uptime": "5.30%",
-    "uptimeDay": "5.30%",
-    "uptimeWeek": "5.30%",
-    "uptimeMonth": "5.30%",
-    "uptimeYear": "5.30%",
+    "uptime": "1.76%",
+    "uptimeDay": "1.76%",
+    "uptimeWeek": "1.76%",
+    "uptimeMonth": "1.76%",
+    "uptimeYear": "1.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 1
     }
   }
 ]

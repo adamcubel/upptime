@@ -5,38 +5,38 @@
     "icon": "https://favicons.githubusercontent.com/artifact.dev.aws.cce.af.mil",
     "slug": "artifactory",
     "status": "down",
-    "uptime": "1.15%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "1.15%",
-    "uptimeYear": "1.15%",
+    "uptime": "0.65%",
+    "uptimeDay": "0.65%",
+    "uptimeWeek": "0.65%",
+    "uptimeMonth": "0.65%",
+    "uptimeYear": "0.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-19": 6
+      "2021-08-19": 10
     }
   },
   {
     "name": "Artifactory2",
-    "url": "https://artifact.dev.aws.cce.af.mil/artifactory/webapp/#/home",
+    "url": "https://artifact.dev.aws.cce.af.mil/artifactory",
     "icon": "https://favicons.githubusercontent.com/artifact.dev.aws.cce.af.mil",
     "slug": "artifactory2",
     "status": "down",
-    "uptime": "1.76%",
-    "uptimeDay": "1.76%",
-    "uptimeWeek": "1.76%",
-    "uptimeMonth": "1.76%",
-    "uptimeYear": "1.76%",
+    "uptime": "0.39%",
+    "uptimeDay": "0.39%",
+    "uptimeWeek": "0.39%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "0.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-19": 1
+      "2021-08-19": 5
     }
   }
 ]

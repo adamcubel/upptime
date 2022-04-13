@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: AWS Artifactory
-    url: https://artifact.dev.aws.cce.af.mil/api
+    url: https://artifact.dev.aws.cce.af.mil/ui
   - name: AWS C1DL Console
     url: https://aws.cdl.af.mil
   - name: Azure Artifactory

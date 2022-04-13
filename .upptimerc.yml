@@ -3,12 +3,16 @@ owner: adamcubel # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Artifactory
-    url: https://artifact.dev.azure.cce.af.mil
-  - name: Azure C1DL Console
-    url: https://azure.cdl.af.mil
   - name: Google
     url: https://www.google.com
+  - name: AWS Artifactory
+    url: https://artifact.dev.aws.cce.af.mil/api
+  - name: AWS C1DL Console
+    url: https://aws.cdl.af.mil
+  - name: Azure Artifactory
+    url: https://artifact.dev.azure.cce.af.mil/api
+  - name: Azure C1DL Console
+    url: https://azure.cdl.af.mil
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
